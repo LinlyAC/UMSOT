@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 tools/train_net.py --config-file ./configs/CSG/bagtricks_gvit.yml MODEL.DEVICE "cuda:0"

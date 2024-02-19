@@ -1,0 +1,7 @@
+_BASE_: ../Base-AGW.yml
+
+DATASETS:
+  NAMES: ("CSG",)
+  TESTS: ("CSG",)
+
+OUTPUT_DIR: logs/CSG/agw_R50
