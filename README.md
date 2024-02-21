@@ -40,3 +40,6 @@ If you find this code useful for your research, please kindly cite the following
 }
 ```
 
+## Contact
+If you have any question, please feel free to contact me. E-mail: zhangq48@mail2.sysu.edu.cn
+
