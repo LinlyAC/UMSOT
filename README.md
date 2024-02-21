@@ -14,15 +14,15 @@ Download the ViT Pre-trained model and modify the path, line 11 in [bagtricks_gv
 > PRETRAIN_PATH: XXX
 
 ## Training
-Single or multiple GPU training is supported. Please refer to scripts folder.
+Single or multiple GPU training is supported. Please refer to [scripts](./scripts/) folder.
 
 ## Acknowledgement
 Codebase from [fast-reid](https://github.com/JDAI-CV/fast-reid). So please refer to that repository for more usage.
 
 ## Citation
 If you find this code useful for your research, please kindly cite the following papers:
-'''
-@ARTICLE{UMSOT,
+```
+@article{UMSOT,
   author={Zhang, Quan and Lai, Jianhuang and Feng, Zhanxiang and Xie, Xiaohua},
   title={Uncertainty Modeling for Group Re-Identification}, 
   journal={International Journal of Computer Vision}, 
@@ -38,5 +38,5 @@ If you find this code useful for your research, please kindly cite the following
   number={3}, 
   pages={3318-3325}
 }
-'''
+```
 
