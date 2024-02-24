@@ -8,7 +8,7 @@ MODEL:
     DEPTH: base
     FEAT_DIM: 768
     PRETRAIN: True
-    PRETRAIN_PATH: /media/data3/zhangquan/documents/GReID-MYLES/fast-reid-toto-v1/jx_vit_base_p16_224-80ecf9dd.pth
+    PRETRAIN_PATH: XXX
     STRIDE_SIZE: (16, 16)
     DROP_PATH_RATIO: 0.1
     DROP_RATIO: 0.0
